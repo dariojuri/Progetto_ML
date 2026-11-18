@@ -61,7 +61,7 @@ Tutti i dettagli sono nella relazione.
 
 | File | Descrizione |
 | --- | --- |
-| `Progetto_ML_Diabetes.ipynb` | Notebook con tutto il codice, commentato cella per cella |
+| `ProgettoML.ipynb` | Notebook con tutto il codice, commentato cella per cella |
 | `Relazione.pdf` | Relazione del progetto |
 | `Presentazione.pdf` | Slide per la discussione |
 
